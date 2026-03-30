@@ -1,0 +1,241 @@
+Student_ID,Video_Watch_Time_Min,Quiz_Score,Assignments_Completed,Login_Frequency,Time_Spent_Per_Session_Min,Course_Category,Learning_Mode,Country,Completion_Status
+1,320,52,1,8,25,Data Science,Self-Paced,India,In Progress
+2,350,55,2,10,30,Web Development,Live,USA,In Progress
+3,400,60,3,12,35,Digital Marketing,Blended,UK,Completed
+4,450,65,4,15,40,AI & ML,Self-Paced,Canada,Completed
+5,500,70,5,18,45,Cybersecurity,Live,Australia,Completed
+6,520,72,5,20,50,Data Science,Blended,India,Completed
+7,540,74,6,22,52,Web Development,Self-Paced,USA,Completed
+8,560,75,6,24,55,Digital Marketing,Live,UK,Completed
+9,580,76,7,25,56,AI & ML,Blended,Canada,Completed
+10,600,78,7,27,58,Cybersecurity,Self-Paced,Australia,Completed
+11,620,79,7,29,60,Data Science,Live,India,Completed
+12,640,80,8,30,62,Web Development,Blended,USA,Completed
+13,660,81,8,32,64,Digital Marketing,Self-Paced,UK,Completed
+14,680,82,8,34,66,AI & ML,Live,Canada,Completed
+15,700,83,9,35,68,Cybersecurity,Blended,Australia,Completed
+16,720,84,9,36,70,Data Science,Self-Paced,India,Completed
+17,740,85,9,38,72,Web Development,Live,USA,Completed
+18,760,86,10,40,74,Digital Marketing,Blended,UK,Completed
+19,780,87,10,42,76,AI & ML,Self-Paced,Canada,Completed
+20,800,88,10,45,78,Cybersecurity,Live,Australia,Completed
+21,820,89,10,46,80,Data Science,Blended,India,Completed
+22,840,90,10,48,82,Web Development,Self-Paced,USA,Completed
+23,860,91,10,50,84,Digital Marketing,Live,UK,Completed
+24,880,92,10,52,86,AI & ML,Blended,Canada,Completed
+25,900,93,10,54,88,Cybersecurity,Self-Paced,Australia,Completed
+26,920,94,10,56,90,Data Science,Live,India,Completed
+27,940,95,10,58,92,Web Development,Blended,USA,Completed
+28,960,96,10,60,94,Digital Marketing,Self-Paced,UK,Completed
+29,980,97,10,62,96,AI & ML,Live,Canada,Completed
+30,1000,98,10,64,98,Cybersecurity,Blended,Australia,Completed
+31,300,50,0,5,20,Data Science,Self-Paced,India,Dropped
+32,310,51,1,6,22,Web Development,Live,USA,Dropped
+33,330,53,1,7,24,Digital Marketing,Blended,UK,Dropped
+34,350,55,2,9,26,AI & ML,Self-Paced,Canada,In Progress
+35,380,58,2,11,30,Cybersecurity,Live,Australia,In Progress
+36,410,60,3,13,34,Data Science,Blended,India,In Progress
+37,440,63,3,15,36,Web Development,Self-Paced,USA,In Progress
+38,470,65,4,17,38,Digital Marketing,Live,UK,In Progress
+39,500,70,5,19,42,AI & ML,Blended,Canada,Completed
+40,530,73,5,21,46,Cybersecurity,Self-Paced,Australia,Completed
+41,560,75,6,23,48,Data Science,Live,India,Completed
+42,580,77,6,25,50,Web Development,Blended,USA,Completed
+43,600,78,7,26,52,Digital Marketing,Self-Paced,UK,Completed
+44,620,80,7,28,54,AI & ML,Live,Canada,Completed
+45,640,81,8,30,56,Cybersecurity,Blended,Australia,Completed
+46,660,82,8,32,58,Data Science,Self-Paced,India,Completed
+47,680,83,8,34,60,Web Development,Live,USA,Completed
+48,700,85,9,36,62,Digital Marketing,Blended,UK,Completed
+49,720,86,9,38,64,AI & ML,Self-Paced,Canada,Completed
+50,740,87,9,40,66,Cybersecurity,Live,Australia,Completed
+51,760,88,10,42,68,Data Science,Blended,India,Completed
+52,780,89,10,44,70,Web Development,Self-Paced,USA,Completed
+53,800,90,10,46,72,Digital Marketing,Live,UK,Completed
+54,820,91,10,48,74,AI & ML,Blended,Canada,Completed
+55,840,92,10,50,76,Cybersecurity,Self-Paced,Australia,Completed
+56,860,93,10,52,78,Data Science,Live,India,Completed
+57,880,94,10,54,80,Web Development,Blended,USA,Completed
+58,900,95,10,56,82,Digital Marketing,Self-Paced,UK,Completed
+59,920,96,10,58,84,AI & ML,Live,Canada,Completed
+60,940,97,10,60,86,Cybersecurity,Blended,Australia,Completed
+61,460,66,4,18,40,Data Science,Self-Paced,India,In Progress
+62,480,68,4,19,42,Web Development,Live,USA,In Progress
+63,500,70,5,20,44,Digital Marketing,Blended,UK,In Progress
+64,520,72,5,22,46,AI & ML,Self-Paced,Canada,In Progress
+65,540,74,6,24,48,Cybersecurity,Live,Australia,In Progress
+66,560,75,6,26,50,Data Science,Blended,India,In Progress
+67,580,77,7,28,52,Web Development,Self-Paced,USA,In Progress
+68,600,78,7,30,54,Digital Marketing,Live,UK,In Progress
+69,620,80,8,32,56,AI & ML,Blended,Canada,In Progress
+70,640,81,8,34,58,Cybersecurity,Self-Paced,Australia,In Progress
+71,660,82,8,36,60,Data Science,Live,India,In Progress
+72,680,83,9,38,62,Web Development,Blended,USA,In Progress
+73,700,85,9,40,64,Digital Marketing,Self-Paced,UK,In Progress
+74,720,86,9,42,66,AI & ML,Live,Canada,In Progress
+75,740,87,10,44,68,Cybersecurity,Blended,Australia,In Progress
+76,760,88,10,46,70,Data Science,Self-Paced,India,Completed
+77,780,89,10,48,72,Web Development,Live,USA,Completed
+78,800,90,10,50,74,Digital Marketing,Blended,UK,Completed
+79,820,91,10,52,76,AI & ML,Self-Paced,Canada,Completed
+80,840,92,10,54,78,Cybersecurity,Live,Australia,Completed
+81,260,48,1,5,22,Data Science,Self-Paced,India,Dropped
+82,280,49,1,6,24,Web Development,Live,USA,Dropped
+83,300,50,2,7,26,Digital Marketing,Blended,UK,Dropped
+84,320,52,2,8,28,AI & ML,Self-Paced,Canada,Dropped
+85,340,54,3,9,30,Cybersecurity,Live,Australia,Dropped
+86,360,55,3,10,32,Data Science,Blended,India,Dropped
+87,380,57,3,11,34,Web Development,Self-Paced,USA,Dropped
+88,400,58,4,12,36,Digital Marketing,Live,UK,Dropped
+89,420,60,4,13,38,AI & ML,Blended,Canada,Dropped
+90,440,62,5,14,40,Cybersecurity,Self-Paced,Australia,Dropped
+91,460,64,5,15,42,Data Science,Live,India,In Progress
+92,480,66,5,16,44,Web Development,Blended,USA,In Progress
+93,500,68,6,17,46,Digital Marketing,Self-Paced,UK,In Progress
+94,520,70,6,18,48,AI & ML,Live,Canada,In Progress
+95,540,72,7,19,50,Cybersecurity,Blended,Australia,In Progress
+96,560,74,7,20,52,Data Science,Self-Paced,India,In Progress
+97,580,76,8,21,54,Web Development,Live,USA,In Progress
+98,600,78,8,22,56,Digital Marketing,Blended,UK,In Progress
+99,620,80,9,23,58,AI & ML,Self-Paced,Canada,Completed
+100,640,81,9,24,60,Cybersecurity,Live,Australia,Completed
+101,660,83,9,26,62,Data Science,Self-Paced,India,Completed
+102,680,85,10,28,64,Web Development,Live,USA,Completed
+103,700,86,10,30,66,Digital Marketing,Blended,UK,Completed
+104,720,88,10,32,68,AI & ML,Self-Paced,Canada,Completed
+105,740,89,10,34,70,Cybersecurity,Live,Australia,Completed
+106,760,90,10,36,72,Data Science,Blended,India,Completed
+107,780,91,10,38,74,Web Development,Self-Paced,USA,Completed
+108,800,92,10,40,76,Digital Marketing,Live,UK,Completed
+109,820,93,10,42,78,AI & ML,Blended,Canada,Completed
+110,840,94,10,44,80,Cybersecurity,Self-Paced,Australia,Completed
+111,860,95,10,46,82,Data Science,Live,India,Completed
+112,880,96,10,48,84,Web Development,Blended,USA,Completed
+113,900,97,10,50,86,Digital Marketing,Self-Paced,UK,Completed
+114,920,98,10,52,88,AI & ML,Live,Canada,Completed
+115,940,99,10,54,90,Cybersecurity,Blended,Australia,Completed
+116,280,49,1,6,24,Data Science,Self-Paced,India,Dropped
+117,300,50,1,7,26,Web Development,Live,USA,Dropped
+118,320,52,2,8,28,Digital Marketing,Blended,UK,Dropped
+119,340,54,2,9,30,AI & ML,Self-Paced,Canada,Dropped
+120,360,55,3,10,32,Cybersecurity,Live,Australia,Dropped
+121,380,57,3,11,34,Data Science,Blended,India,Dropped
+122,400,58,4,12,36,Web Development,Self-Paced,USA,Dropped
+123,420,60,4,13,38,Digital Marketing,Live,UK,Dropped
+124,440,62,5,14,40,AI & ML,Blended,Canada,Dropped
+125,460,64,5,15,42,Cybersecurity,Self-Paced,Australia,Dropped
+126,480,66,6,16,44,Data Science,Live,India,In Progress
+127,500,68,6,17,46,Web Development,Blended,USA,In Progress
+128,520,70,7,18,48,Digital Marketing,Self-Paced,UK,In Progress
+129,540,72,7,19,50,AI & ML,Live,Canada,In Progress
+130,560,74,8,20,52,Cybersecurity,Blended,Australia,In Progress
+131,580,76,8,21,54,Data Science,Self-Paced,India,In Progress
+132,600,78,9,22,56,Web Development,Live,USA,In Progress
+133,620,80,9,23,58,Digital Marketing,Blended,UK,In Progress
+134,640,82,10,24,60,AI & ML,Self-Paced,Canada,Completed
+135,660,83,10,25,62,Cybersecurity,Live,Australia,Completed
+136,680,85,10,26,64,Data Science,Blended,India,Completed
+137,700,86,10,27,66,Web Development,Self-Paced,USA,Completed
+138,720,88,10,28,68,Digital Marketing,Live,UK,Completed
+139,740,89,10,29,70,AI & ML,Blended,Canada,Completed
+140,760,90,10,30,72,Cybersecurity,Self-Paced,Australia,Completed
+141,780,91,10,31,74,Data Science,Live,India,Completed
+142,800,92,10,32,76,Web Development,Blended,USA,Completed
+143,820,93,10,33,78,Digital Marketing,Self-Paced,UK,Completed
+144,840,94,10,34,80,AI & ML,Live,Canada,Completed
+145,860,95,10,35,82,Cybersecurity,Blended,Australia,Completed
+146,300,50,1,6,26,Data Science,Self-Paced,India,Dropped
+147,320,52,2,7,28,Web Development,Live,USA,Dropped
+148,340,54,2,8,30,Digital Marketing,Blended,UK,Dropped
+149,360,55,3,9,32,AI & ML,Self-Paced,Canada,Dropped
+150,380,57,3,10,34,Cybersecurity,Live,Australia,Dropped
+151,400,58,4,11,36,Data Science,Blended,India,Dropped
+152,420,60,4,12,38,Web Development,Self-Paced,USA,Dropped
+153,440,62,5,13,40,Digital Marketing,Live,UK,Dropped
+154,460,64,5,14,42,AI & ML,Blended,Canada,Dropped
+155,480,66,6,15,44,Cybersecurity,Self-Paced,Australia,Dropped
+156,500,68,6,16,46,Data Science,Live,India,In Progress
+157,520,70,7,17,48,Web Development,Blended,USA,In Progress
+158,540,72,7,18,50,Digital Marketing,Self-Paced,UK,In Progress
+159,560,74,8,19,52,AI & ML,Live,Canada,In Progress
+160,580,76,8,20,54,Cybersecurity,Blended,Australia,In Progress
+161,600,78,9,21,56,Data Science,Self-Paced,India,In Progress
+162,620,80,9,22,58,Web Development,Live,USA,In Progress
+163,640,82,10,23,60,Digital Marketing,Blended,UK,Completed
+164,660,83,10,24,62,AI & ML,Self-Paced,Canada,Completed
+165,680,85,10,25,64,Cybersecurity,Live,Australia,Completed
+166,700,86,10,26,66,Data Science,Blended,India,Completed
+167,720,88,10,27,68,Web Development,Self-Paced,USA,Completed
+168,740,89,10,28,70,Digital Marketing,Live,UK,Completed
+169,760,90,10,29,72,AI & ML,Blended,Canada,Completed
+170,780,91,10,30,74,Cybersecurity,Self-Paced,Australia,Completed
+171,800,92,10,32,76,Data Science,Live,India,Completed
+172,820,93,10,34,78,Web Development,Blended,USA,Completed
+173,840,94,10,36,80,Digital Marketing,Self-Paced,UK,Completed
+174,860,95,10,38,82,AI & ML,Live,Canada,Completed
+175,880,96,10,40,84,Cybersecurity,Blended,Australia,Completed
+176,900,97,10,42,86,Data Science,Self-Paced,India,Completed
+177,920,98,10,44,88,Web Development,Live,USA,Completed
+178,940,99,10,46,90,Digital Marketing,Blended,UK,Completed
+179,270,48,1,5,22,AI & ML,Self-Paced,Canada,Dropped
+180,290,49,1,6,24,Cybersecurity,Live,Australia,Dropped
+181,310,51,2,7,26,Data Science,Blended,India,Dropped
+182,330,53,2,8,28,Web Development,Self-Paced,USA,Dropped
+183,350,55,3,9,30,Digital Marketing,Live,UK,Dropped
+184,370,56,3,10,32,AI & ML,Blended,Canada,Dropped
+185,390,58,4,11,34,Cybersecurity,Self-Paced,Australia,Dropped
+186,410,60,4,12,36,Data Science,Live,India,In Progress
+187,430,62,5,13,38,Web Development,Blended,USA,In Progress
+188,450,64,5,14,40,Digital Marketing,Self-Paced,UK,In Progress
+189,470,66,6,15,42,AI & ML,Live,Canada,In Progress
+190,490,68,6,16,44,Cybersecurity,Blended,Australia,In Progress
+191,510,70,7,17,46,Data Science,Self-Paced,India,In Progress
+192,530,72,7,18,48,Web Development,Live,USA,In Progress
+193,550,74,8,19,50,Digital Marketing,Blended,UK,In Progress
+194,570,76,8,20,52,AI & ML,Self-Paced,Canada,In Progress
+195,590,78,9,21,54,Cybersecurity,Live,Australia,In Progress
+196,610,80,9,22,56,Data Science,Blended,India,In Progress
+197,630,82,10,23,58,Web Development,Self-Paced,USA,Completed
+198,650,83,10,24,60,Digital Marketing,Live,UK,Completed
+199,670,85,10,25,62,AI & ML,Blended,Canada,Completed
+200,690,86,10,26,64,Cybersecurity,Self-Paced,Australia,Completed
+201,710,88,10,27,66,Data Science,Live,India,Completed
+202,730,89,10,28,68,Web Development,Blended,USA,Completed
+203,750,90,10,29,70,Digital Marketing,Self-Paced,UK,Completed
+204,770,91,10,30,72,AI & ML,Live,Canada,Completed
+205,790,92,10,31,74,Cybersecurity,Blended,Australia,Completed
+206,305,51,2,7,27,Data Science,Self-Paced,India,Dropped
+207,325,53,2,8,29,Web Development,Live,USA,Dropped
+208,345,55,3,9,31,Digital Marketing,Blended,UK,Dropped
+209,365,56,3,10,33,AI & ML,Self-Paced,Canada,Dropped
+210,385,58,4,11,35,Cybersecurity,Live,Australia,Dropped
+211,405,60,4,12,37,Data Science,Blended,India,In Progress
+212,425,62,5,13,39,Web Development,Self-Paced,USA,In Progress
+213,445,64,5,14,41,Digital Marketing,Live,UK,In Progress
+214,465,66,6,15,43,AI & ML,Blended,Canada,In Progress
+215,485,68,6,16,45,Cybersecurity,Self-Paced,Australia,In Progress
+216,505,70,7,17,47,Data Science,Live,India,In Progress
+217,525,72,7,18,49,Web Development,Blended,USA,In Progress
+218,545,74,8,19,51,Digital Marketing,Self-Paced,UK,In Progress
+219,565,76,8,20,53,AI & ML,Live,Canada,In Progress
+220,585,78,9,21,55,Cybersecurity,Blended,Australia,In Progress
+221,605,80,9,22,57,Data Science,Self-Paced,India,In Progress
+222,625,82,10,23,59,Web Development,Live,USA,Completed
+223,645,83,10,24,61,Digital Marketing,Blended,UK,Completed
+224,665,85,10,25,63,AI & ML,Self-Paced,Canada,Completed
+225,685,86,10,26,65,Cybersecurity,Live,Australia,Completed
+226,705,88,10,27,67,Data Science,Blended,India,Completed
+227,725,89,10,28,69,Web Development,Self-Paced,USA,Completed
+228,745,90,10,29,71,Digital Marketing,Live,UK,Completed
+229,765,91,10,30,73,AI & ML,Blended,Canada,Completed
+230,785,92,10,31,75,Cybersecurity,Self-Paced,Australia,Completed
+231,260,47,1,5,21,Data Science,Self-Paced,India,Dropped
+232,280,48,1,6,23,Web Development,Live,USA,Dropped
+233,300,50,2,7,25,Digital Marketing,Blended,UK,Dropped
+234,320,52,2,8,27,AI & ML,Self-Paced,Canada,Dropped
+235,340,54,3,9,29,Cybersecurity,Live,Australia,Dropped
+236,360,55,3,10,31,Data Science,Blended,India,Dropped
+237,380,57,4,11,33,Web Development,Self-Paced,USA,Dropped
+238,400,58,4,12,35,Digital Marketing,Live,UK,Dropped
+239,420,60,5,13,37,AI & ML,Blended,Canada,Dropped
+240,440,62,5,14,39,Cybersecurity,Self-Paced,Australia,Dropped
